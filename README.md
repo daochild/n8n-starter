@@ -33,7 +33,7 @@ Dockerized n8n service
    docker-compose up -d
    ```
 6. **Access n8n:**
-   Open your web browser and navigate to `http://localhost:5678` (or the domain you configured) to access the n8n interface.
+   Open your web browser and navigate to http://localhost:5678 (or the domain you configured) to access the n8n interface.
 7. **Initial Setup:** 
    Follow the on-screen instructions to complete the initial setup of n8n.
 8. **Optional Configurations:**
